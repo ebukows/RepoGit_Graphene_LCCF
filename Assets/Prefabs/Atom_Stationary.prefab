@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 5065394204679089943}
   - component: {fileID: 6729647464638382790}
   m_Layer: 0
-  m_Name: Atom_Stationary_Test
+  m_Name: Atom_Stationary
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1958807105720300029}
   - component: {fileID: 7649531950856708523}
   m_Layer: 0
-  m_Name: Bond_Interactive_Test
+  m_Name: Bond_Interactive
   m_TagString: Grabbable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
