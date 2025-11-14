@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 4908361348935622010}
   - component: {fileID: 3017018568354048731}
   - component: {fileID: 1958807105720300029}
-  - component: {fileID: 7649531950856708523}
   m_Layer: 0
   m_Name: Bond_Interactive
   m_TagString: Grabbable
@@ -290,19 +289,6 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!114 &7649531950856708523
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1734375556207504930}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 22475cd17c8c6444c92779487d45f947, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  correctPosition: {fileID: 0}
 --- !u!1 &2862424534667556129
 GameObject:
   m_ObjectHideFlags: 0
@@ -328,9 +314,9 @@ Transform:
   m_GameObject: {fileID: 2862424534667556129}
   serializedVersion: 2
   m_LocalRotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
-  m_LocalPosition: {x: -0, y: 0.057, z: -0.03}
+  m_LocalPosition: {x: -0.0009999947, y: -0.051696785, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 955454023492614943}
-  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 90}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
