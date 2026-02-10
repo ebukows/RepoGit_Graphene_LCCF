@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Bond
+  - Atom
+  - Bond_Socket
+  - Atom_Socket
+  - UI
+  - World
   - 
   - 
   - 
